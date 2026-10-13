@@ -1,0 +1,11 @@
+company,cost_title,period,allocation_type,allocated_amount
+Gamma company,Data Analysis Service,1405/04,Direct,780000000.0
+Gamma company,Cloud Infrastructure,1405/04,Direct,372000000.0
+Gamma company,Cloud Infrastructure,1405/03,Direct,365000000.0
+Alpha company,Software License,1405/04,Direct,252000000.0
+Alpha company,Software License,1405/03,Direct,245000000.0
+Alpha company,Shared Office Space,1405/04,Shared_Headcount,216099744.2455243
+Beta company,Software License,1405/04,Direct,204000000.0
+Beta company,Software License,1405/03,Direct,198000000.0
+Alpha company,Shared Office Space,1405/03,Shared_Headcount,178264840.1826484
+Epsilon company,Security License,1405/03,Direct,171000000.0

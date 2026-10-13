@@ -1,0 +1,11 @@
+period,company,headcount,headcount_share_pct,shared_cost_rial,shared_cost_share_pct
+1405/03,Alpha company,128.0,29.2,374063927,29.2
+1405/03,Beta company,84.0,19.2,245479452,19.2
+1405/03,Delta company,71.0,16.2,207488584,16.2
+1405/03,Epsilon company,59.0,13.5,172420091,13.5
+1405/03,Gamma company,96.0,21.9,280547945,21.9
+1405/04,Alpha company,131.0,33.5,457327366,33.5
+1405/04,Beta company,87.0,22.3,303721228,22.3
+1405/04,Delta company,72.0,18.4,251355499,18.4
+1405/04,Epsilon company,0.0,0.0,0,0.0
+1405/04,Gamma company,101.0,25.8,352595908,25.8
